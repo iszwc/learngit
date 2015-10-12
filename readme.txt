@@ -1,4 +1,3 @@
-wo shi shui
-wk dmdsad dsa dad 
-d;aslmdsa d as
-dasdma;sdm;amd
+Git is distributed version control system.
+Git is free software.
+
